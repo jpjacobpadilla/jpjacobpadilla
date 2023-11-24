@@ -1,3 +1,3 @@
-<img src="jacob-padilla.gif" alt="Jacob Padilla Banner" align="middle" width="80%">
-
-
+<p align="center">
+    <img src="jacob-padilla.gif" alt="Jacob Padilla Banner" width="80%">
+</p>
