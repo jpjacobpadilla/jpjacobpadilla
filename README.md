@@ -1,3 +1,6 @@
-<p align="center">
-    <img src="jacob-padilla.gif" alt="Jacob Padilla Banner" width="90%">
-</p>
+**Latest Articles**
+
+- [Advanced Web Scraping With Python: Extract Data From Any Site](/articles/advanced-web-scraping-techniques)
+- [Handling Tasks in Asyncio Like a Pro](/articles/handling-asyncio-tasks)
+- [Hidden Gems in Chrome DevTools: 9 Tips and Tricks](/articles/chrome-devtools-tips-tricks)
+- [The Most Underused CSS Media Queries: Hover & Any-Hover](/articles/hover-media-query)
