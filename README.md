@@ -4,4 +4,3 @@
 - [The Inner Workings of Python Dataclasses Explained](https://jacobpadilla.com/articles/python-dataclass-internals)
 - [A Step-By-Step Guide To Web Scraping](https://jacobpadilla.com/articles/A-Guide-To-Web-Scraping)
 - [Handling Tasks in Asyncio Like a Pro](https://jacobpadilla.com/articles/handling-asyncio-tasks)
-- [Efficiently Debug Your Code With Git Bisect](https://jacobpadilla.com/articles/Git-Bisect)
