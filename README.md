@@ -1,7 +1,7 @@
-**My Latest Articles**
+**My Popular Articles**
 
-- [Making a Simple HTTP Server with Asyncio Protocols](https://jacobpadilla.com/articles/asyncio-protocols)
-- [How Pandas DataFrames Manage and Store Data Efficiently](https://jacobpadilla.com/articles/dataframe-internals)
-- [A Developer's Guide to Technical SEO for Your Website](https://jacobpadilla.com/articles/technical-seo-fundamentals)
-- [The Inner Workings of Python Dataclasses Explained](https://jacobpadilla.com/articles/python-dataclass-internals)
 - [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio)
+- [The Inner Workings of Python Dataclasses Explained](https://jacobpadilla.com/articles/python-dataclass-internals)
+- [A Step-By-Step Guide To Web Scraping](https://jacobpadilla.com/articles/A-Guide-To-Web-Scraping)
+- [Handling Tasks in Asyncio Like a Pro](https://jacobpadilla.com/articles/handling-asyncio-tasks)
+- [Efficiently Debug Your Code With Git Bisect](https://jacobpadilla.com/articles/Git-Bisect)
